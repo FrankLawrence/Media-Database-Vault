@@ -1,0 +1,27 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "fileSortOrder": "byCreatedTime",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Computer Science",
+  "attachmentFolderPath": "Files",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "foldIndent": true,
+  "vimMode": true,
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "autoConvertHtml": true
+}

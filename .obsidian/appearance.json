@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 14,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Fira Code,Roboto Mono,Source Code Pro",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "accentColor": "#eb6f92",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
+}

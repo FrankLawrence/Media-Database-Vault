@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "03910b91f695953b",
+    "type": "split",
+    "children": [
+      {
+        "id": "755211410bc6216b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85d01444c4ec6431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "45a61ff22507ea50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies/The Dark Night.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89d2cbbc850f4681",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2a9aa3fedd976c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13160be2efd578a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f4330612332e4097",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "645ce3ec9fda0b40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f79838ae352b430",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "af68da5da2e3de0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee1d578a9f322777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bd90c11bdf054e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a8cb08379ca2e59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Movies.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "db72967e5e644f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Movies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f3c39408a3e0955",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3279d6c55a6ec62c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "14ca63461016b643",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "89cc0e471d3f2e0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Movies.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4c6142e30c7eb0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e4f775598626bb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Movies.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.8,
+                  "nodeSizeMultiplier": 1.48013980263158,
+                  "lineSizeMultiplier": 0.952261513157895,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.12726264310511337,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": true,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "85d01444c4ec6431",
+  "lastOpenFiles": [
+    "Movies/The Flintstones.md",
+    "Movies.md",
+    "Movies/The Dark Night.md",
+    "Movies/The Dark Night Rises.md",
+    "Movies/It.md",
+    "Movie List.md",
+    "Series.md",
+    "Movies/Jurassic World Dominion.md",
+    "Movies/The Lost World Jurassic Park1.md",
+    "Movies/Jurassic World.md",
+    "Movies/Jurassic Park III.md",
+    "Movies/The Lost World Jurassic Park.md",
+    "Movies/Guardians of the Galaxy Vol. 3.md",
+    "Movies/Guardians of the Galaxy Vol. 2.md",
+    "Movies/Avatar The Way of Water.md",
+    "Movies/Indiana Jones and the Dial of Destiny.md",
+    "Movies/Indiana Jones and the Kingdom of the Crystal Skull.md",
+    "Movies/Pirates of the Caribbean On Stranger Tides.md",
+    "Movies/Pirates of the Caribbean Dead Men Tell No Tales.md",
+    "Movies/Pirates of the Caribbean The Curse of the Black Pearl.md",
+    "Movies/Pirates of the Caribbean At Worlds End.md",
+    "Movies/Pirates of the Caribbean Dead Mans Chest.md",
+    "Movies/I Robot.md",
+    "Movies/Transformers Dark of the Moon.md",
+    "Movies/Transformers Revenge of the Fallen.md",
+    "Movies/John Wick Chapter 4.md",
+    "Posters/(T)Raumschiff Surprise.jpg",
+    "Posters",
+    "Genres",
+    "Series",
+    "Movies",
+    "01 Shine On You Crazy Diamond Pt. 1-5.mp3",
+    "Miscellaneous/movies.js",
+    "Miscellaneous",
+    "Movies 2",
+    "Personal/;).canvas",
+    "Miscellaneous/movies.js",
+    "Miscellaneous",
+    "Banners/The Dark Side of the Moon Album wallpaper Rosé pine.jpeg",
+    "Banners/E3wGdziUYAENJU_.jpeg",
+    "Banners/blockwavemoon.png",
+    "Files/Subspaces associated with a linear transformation.png",
+    "Computer Programming/Projects/Clinical Trials API.canvas",
+    "Files/Is every b the image of at most one vector?.png",
+    "Files/Is the range of T all of R^m.png",
+    "Computer Programming/Computer Networks/Network Layer Model.canvas",
+    "Files/Additive Increase Multiplicative Decrease control law.png",
+    "Files/Additive and multiplicative bandwidth adjustments.png",
+    "Files/Max-min bandwidth allocation for four flows.png",
+    "Untitled.canvas",
+    "Computer Programming/Computer Networks/Sliding Windows Abnormal case.canvas",
+    "Computer Programming/Computer Organization/A five-stage organization.canvas",
+    "Computer Programming/Information Management for CS/An industry and its competitive forces.canvas",
+    "Computer Programming/Information Management for CS/Information characteristics for managerial decisions.canvas"
+  ]
+}
