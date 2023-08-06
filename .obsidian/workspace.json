@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies.md",
+                "file": "Movies/Animation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "45a61ff22507ea50",
+            "id": "57ff53befb7e9046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies/The Dark Night.md",
-                "mode": "source",
+                "file": "Series.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movies.md",
+                "file": "Movies/Animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movies.md",
+                "file": "Movies/Animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movies.md"
+                "file": "Movies/Animation.md"
               }
             }
           }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Movies.md",
+                "file": "Movies/Animation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,15 +245,23 @@
   },
   "active": "85d01444c4ec6431",
   "lastOpenFiles": [
-    "Movies/The Flintstones.md",
     "Movies.md",
+    "Series.md",
     "Movies/The Dark Night.md",
+    "Series/Steins;Gate.md",
+    "Movies/As Above So Below.md",
+    "Movies/Spaceballs.md",
+    "Movies/The Lost World Jurassic Park1.md",
+    "Series/Breaking Bad.md",
+    "Genres/Comedy.md",
+    "Movies/Heat.md",
+    "Movies/American Psycho.md",
+    "Movies/Lord of War.md",
+    "Movies/The Flintstones.md",
     "Movies/The Dark Night Rises.md",
     "Movies/It.md",
     "Movie List.md",
-    "Series.md",
     "Movies/Jurassic World Dominion.md",
-    "Movies/The Lost World Jurassic Park1.md",
     "Movies/Jurassic World.md",
     "Movies/Jurassic Park III.md",
     "Movies/The Lost World Jurassic Park.md",
@@ -263,14 +271,6 @@
     "Movies/Indiana Jones and the Dial of Destiny.md",
     "Movies/Indiana Jones and the Kingdom of the Crystal Skull.md",
     "Movies/Pirates of the Caribbean On Stranger Tides.md",
-    "Movies/Pirates of the Caribbean Dead Men Tell No Tales.md",
-    "Movies/Pirates of the Caribbean The Curse of the Black Pearl.md",
-    "Movies/Pirates of the Caribbean At Worlds End.md",
-    "Movies/Pirates of the Caribbean Dead Mans Chest.md",
-    "Movies/I Robot.md",
-    "Movies/Transformers Dark of the Moon.md",
-    "Movies/Transformers Revenge of the Fallen.md",
-    "Movies/John Wick Chapter 4.md",
     "Posters/(T)Raumschiff Surprise.jpg",
     "Posters",
     "Genres",
